@@ -1,1 +1,6 @@
-nambah yaa
+# Ruang Belajar
+
+Contributor:
+
+- `<yourname> - <id>`
+- Bob
